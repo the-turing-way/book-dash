@@ -1,3 +1,5 @@
+_As of February 2025, this repository has been archived and combined with the original [bookdash](https://github.com/the-turing-way/book-dash/issues/5) repository_
+
 # The Turing Way Book Dashes
 
 You can read more about the book dash in our [community handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html).
